@@ -1,0 +1,176 @@
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\App.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csprojResolveAssemblyReference.cache
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.g.cs
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\App.g.cs
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.baml
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\App.baml
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.g.cs
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.baml
+C:\Users\Bubu\Downloads\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csprojResolveAssemblyReference.cache
+F:\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+F:\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+F:\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csprojResolveAssemblyReference.cache
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.g.cs
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.g.cs
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\App.g.cs
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\App.baml
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.baml
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.baml
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+F:\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csprojResolveAssemblyReference.cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\App.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\App.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\SettingsWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\SettingsWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\WaitWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\WaitWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\HistoryView.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\Restauracja\Restauracja\obj\Debug\HistoryView.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csprojResolveAssemblyReference.cache
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\HistoryView.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\SettingsWindow.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\WaitWindow.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\App.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\App.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\ApplyWindow.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\HistoryView.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\MainWindow.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\SettingsWindow.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\WaitWindow.baml
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+C:\Users\Bubu\Desktop\Restauracja\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\App.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\App.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\ApplyWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\HistoryView.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\SettingsWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\WaitWindow.g.cs
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\ApplyWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\HistoryView.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\MainWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\SettingsWindow.baml
+C:\Users\Tomasz Gowarzewski\Desktop\Restauracja\Restauracja\obj\Debug\Views\WaitWindow.baml
+D:\Restauracja\Restauracja\bin\Debug\Restauracja.exe.config
+D:\Restauracja\Restauracja\obj\Debug\Restauracja.exe
+D:\Restauracja\Restauracja\obj\Debug\Restauracja.pdb
+D:\Restauracja\Restauracja\bin\Debug\Restauracja.exe
+D:\Restauracja\Restauracja\bin\Debug\Restauracja.pdb
+D:\Restauracja\Restauracja\obj\Debug\Views\ApplyWindow.g.cs
+D:\Restauracja\Restauracja\obj\Debug\Views\AuthorScreen.g.cs
+D:\Restauracja\Restauracja\obj\Debug\Views\HistoryView.g.cs
+D:\Restauracja\Restauracja\obj\Debug\Views\MainWindow.g.cs
+D:\Restauracja\Restauracja\obj\Debug\Views\SettingsWindow.g.cs
+D:\Restauracja\Restauracja\obj\Debug\Views\WaitWindow.g.cs
+D:\Restauracja\Restauracja\obj\Debug\App.g.cs
+D:\Restauracja\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+D:\Restauracja\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+D:\Restauracja\Restauracja\obj\Debug\App.baml
+D:\Restauracja\Restauracja\obj\Debug\Views\ApplyWindow.baml
+D:\Restauracja\Restauracja\obj\Debug\Views\AuthorScreen.baml
+D:\Restauracja\Restauracja\obj\Debug\Views\HistoryView.baml
+D:\Restauracja\Restauracja\obj\Debug\Views\MainWindow.baml
+D:\Restauracja\Restauracja\obj\Debug\Views\SettingsWindow.baml
+D:\Restauracja\Restauracja\obj\Debug\Views\WaitWindow.baml
+D:\Restauracja\Restauracja\obj\Debug\Restauracja.g.resources
+D:\Restauracja\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+D:\Restauracja\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+D:\Restauracja\Restauracja\obj\Debug\Restauracja.App.csprojResolveAssemblyReference.cache
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\bin\Debug\Restauracja.exe.config
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.exe
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.pdb
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\ApplyWindow.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\AuthorScreen.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\HistoryView.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\MainWindow.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\SettingsWindow.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\WaitWindow.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\App.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja_MarkupCompile.cache
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja_MarkupCompile.lref
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\bin\Debug\Restauracja.exe
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\bin\Debug\Restauracja.pdb
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\App.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\ApplyWindow.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\AuthorScreen.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\HistoryView.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\MainWindow.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\SettingsWindow.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Views\WaitWindow.baml
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.g.resources
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.Properties.Resources.resources
+E:\doMetaPacku\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.App.csproj.GenerateResource.Cache
+E:\doMetaPacku\nowe\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\bin\Debug\Restauracja.exe.config
+E:\doMetaPacku\nowe\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.exe
+E:\doMetaPacku\nowe\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja_Projekt_Tomasz Gowarzewski\Restauracja\obj\Debug\Restauracja.pdb

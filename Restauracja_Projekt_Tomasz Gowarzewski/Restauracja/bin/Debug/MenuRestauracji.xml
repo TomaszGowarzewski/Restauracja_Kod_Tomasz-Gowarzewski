@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dania> 
+  <Pizze>
+    <Pizza>
+      <Nazwa>Margheritta</Nazwa>
+      <Cena>20</Cena>
+	  <Opis>Pizza, w której podstawowymi składnikami są: pomidory, ser mozzarella i bazylia.</Opis>
+    </Pizza>
+  <Pizza>
+      <Nazwa>Vegetariana</Nazwa>
+      <Cena>22</Cena>
+	  <Opis>Pizza, w której podstawowymi składnikami są: pomidory, ser,pieczarki, kukurydza, papryka, oliwki, cebula.</Opis>
+    </Pizza>
+    <Pizza>
+      <Nazwa>Tosca </Nazwa>
+      <Cena>25</Cena>
+	  <Opis>Pizza, w której podstawowymi składnikami są: pomidory, ser, szynka, papryka.</Opis>
+    </Pizza>
+    <Pizza>
+      <Nazwa>Venecia</Nazwa>
+      <Cena>25</Cena>
+	  <Opis>Pizza, w której podstawowymi składnikami są: pomidory, ser, szynka, pieczarki.</Opis>
+    </Pizza>
+  
+  </Pizze>
+  
+  <DodatkiDoPizzy> 
+  <Dodatek>
+      <Nazwa>Podwójny ser</Nazwa>
+      <Cena>2</Cena>
+	  <Opis>warstwa, pysznego ciągnącego się sera.</Opis>
+    </Dodatek>
+      <Dodatek>
+      <Nazwa>Salami</Nazwa>
+      <Cena>2</Cena>
+	  <Opis>długodojrzewająca kiełbasa z dodatkiem drobno pokrojonej słoniny i przypraw.</Opis>	  
+    </Dodatek>
+      <Dodatek>
+      <Nazwa>Szynka</Nazwa>
+      <Cena>2</Cena>
+	  <Opis>Wędlina wspaniale komponująca się ze smakiem pizzy.</Opis>	 
+    </Dodatek>
+      <Dodatek>
+      <Nazwa>Pieczarki</Nazwa>
+      <Cena>2</Cena>
+	  <Opis>Smakowite,świeże plasterki Pieczarek.</Opis>	
+    </Dodatek>
+  </DodatkiDoPizzy>
+  
+  <DaniaGlowne>
+    <Danie>
+      <Nazwa>Schabowy z frytkami </Nazwa>
+      <cena>30</cena>
+	  <Opis> Soczysty kotlet schabowy z frytkami.</Opis>	
+    </Danie>
+    <Danie>
+      <Nazwa>Schabowy z ryżem </Nazwa>
+      <cena>30</cena>
+	  <Opis>Schab z soczystym ryżem.</Opis>	  
+    </Danie>
+      <Danie>
+      <Nazwa>schabowy z ziemniakami </Nazwa>
+      <cena>30</cena>
+	  <Opis>Kotlet schabowy z cebulką, ziemniakami i świeżą surówką.</Opis>	 
+    </Danie>    
+      <Danie>
+      <Nazwa>Ryba z frytkami </Nazwa>
+      <cena>28</cena>
+	  <Opis>Pieczona ryba z frytkami i bukietem sałat.</Opis>	
+    </Danie>     
+      <Danie>
+      <Nazwa>Placek po węgiersku </Nazwa>
+      <cena>27</cena>
+	  <Opis>Placki po węgiersku to pyszne połączenie placków ziemniaczanych z sosem gulaszowym.</Opis>  
+    </Danie>
+  </DaniaGlowne>
+  
+  <DodatkiDoDanGlownych>
+    <Dodatek>
+      <Nazwa>Bar sałatkowy</Nazwa>
+      <Cena>5</Cena>
+	  <Opis>Świeże,zielone, chrupiące, idealne do każdego rodzaju obiadów.</Opis> 
+    </Dodatek>
+  <Dodatek>
+      <Nazwa>Zestaw sosów </Nazwa>
+      <Cena>6</Cena>
+	  <Opis>Aromatyczne sosy pasujące do wszelkiego rodzaju potraw.</Opis> 
+    </Dodatek>
+  </DodatkiDoDanGlownych>
+  
+  <Zupy>
+    <Zupa>
+      <Nazwa> Zupa Pomidorowa</Nazwa>
+      <Cena>12</Cena>
+	   <Opis>Tradycyjna zupa na świeżych pomidorach. </Opis>   
+    </Zupa>
+  <Zupa>
+      <Nazwa>Rosół </Nazwa>
+      <Cena>10</Cena>
+	  <Opis>Pyszny, domowy rosół drobiowy. </Opis>   
+    </Zupa>
+  </Zupy>
+  
+  <Napoje>
+    <Napoj>
+      <Nazwa>Kawa</Nazwa>
+      <Cena>5</Cena>
+	  <Opis>Świeżo mielona kawa mająca głęboki i intensywny smak, który docenią zarówno wytrawni znawcy kawy, jak i osoby, które dopiero zaczynają wędrówkę pośród bogactwa smaków i aromatów.</Opis>  	  
+    </Napoj>
+   <Napoj>
+      <Nazwa>Herbata</Nazwa>
+      <Cena>5</Cena>
+	   <Opis>Smaczne i aromatyczne herbaty z całego świata.</Opis>
+    </Napoj>
+     <Napoj>
+      <Nazwa>Cola</Nazwa>
+      <Cena>5</Cena>
+	  <Opis>Słodki napój gazowany. </Opis>
+    </Napoj>
+  
+  </Napoje>
+</Dania>

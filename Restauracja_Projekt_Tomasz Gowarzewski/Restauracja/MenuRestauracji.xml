@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Dania> 
+  <Pizze>
+    <Pizza>
+      <Nazwa>Margheritta</Nazwa>
+      <Cena>20</Cena>
+    </Pizza>
+  <Pizza>
+      <Nazwa>Vegetariana</Nazwa>
+      <Cena>22</Cena>
+    </Pizza>
+  <Pizza>
+      <Nazwa>Vegetariana</Nazwa>
+      <Cena>22</Cena>
+    </Pizza>
+    <Pizza>
+      <Nazwa>Tosca </Nazwa>
+      <Cena>25</Cena>
+    </Pizza>
+    <Pizza>
+      <Nazwa>Venecia</Nazwa>
+      <Cena>25</Cena>
+    </Pizza>
+  
+  </Pizze>
+  
+  <DodatkiDoPizzy>
+    <Dodatek>
+      <Nazwa>Podwójny ser</Nazwa>
+      <Cena>2</Cena>
+    </Dodatek>
+  <Dodatek>
+      <Nazwa>Podwójny ser</Nazwa>
+      <Cena>2</Cena>
+    </Dodatek>
+      <Dodatek>
+      <Nazwa>Salami</Nazwa>
+      <Cena>2</Cena>
+    </Dodatek>
+      <Dodatek>
+      <Nazwa>Szynka</Nazwa>
+      <Cena>2</Cena>
+    </Dodatek>
+      <Dodatek>
+      <Nazwa>Pieczarki</Nazwa>
+      <Cena>2</Cena>
+    </Dodatek>
+  </DodatkiDoPizzy>
+  
+  <DaniaGlowne>
+    <Danie>
+      <Nazwa>Schabowy z frytkami </Nazwa>
+      <cena>30</cena>
+    </Danie>
+    <Danie>
+      <Nazwa>Schabowy z ryżem </Nazwa>
+      <cena>30</cena>
+    </Danie>
+      <Danie>
+      <Nazwa>Schabowy z ziemniakami  </Nazwa>
+      <cena>30</cena>
+    </Danie>    
+      <Danie>
+      <Nazwa>Ryba z frytkami </Nazwa>
+      <cena>28</cena>
+    </Danie>     
+      <Danie>
+      <Nazwa>Placek po węgiersku </Nazwa>
+      <cena>27</cena>
+    </Danie>
+  </DaniaGlowne>
+  
+  <DodatkiDoDanGlownych>
+    <Dodatek>
+      <Nazwa>Bar sałatkowy</Nazwa>
+      <Cena>5</Cena>
+    </Dodatek>
+  <Dodatek>
+      <Nazwa>Zestaw sosów </Nazwa>
+      <Cena>6</Cena>
+    </Dodatek>
+  </DodatkiDoDanGlownych>
+  
+  <Zupy>
+    <Zupa>
+      <Nazwa>Pomidorowa</Nazwa>
+      <Cena>12</Cena>
+    </Zupa>
+  <Zupa>
+      <Nazwa>Rosół </Nazwa>
+      <Cena>10</Cena>
+    </Zupa>
+  </Zupy>
+  
+  <Napoje>
+    <Napoj>
+      <Nazwa>Kawa</Nazwa>
+      <Cena>5</Cena>
+    </Napoj>
+   <Napoj>
+      <Nazwa>Herbata</Nazwa>
+      <Cena>5</Cena>
+    </Napoj>
+     <Napoj>
+      <Nazwa>Cola</Nazwa>
+      <Cena>5</Cena>
+    </Napoj>
+  
+  </Napoje>
+</Dania>

@@ -1,0 +1,35 @@
+﻿<Window x:Class="Restauracja.SettingsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Restauracja"
+        mc:Ignorable="d"
+        Title="Ustawienia" Height="207.919" Width="340.692" ResizeMode="NoResize">
+    <Window.DataContext>
+        <local:SettingsWindowViewModel></local:SettingsWindowViewModel>
+    </Window.DataContext>
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" Content="Serwer Smtp" HorizontalAlignment="Center"  Width="80"></Label>
+        <Label Grid.Column="0" Grid.Row="1" Content="Użytkownik" HorizontalAlignment="Center" Width="74"></Label>
+        <Label Grid.Column="0" Grid.Row="2" Content="Hasło" HorizontalAlignment="Center"  Width="42"></Label>
+        <Label Grid.Column="0" Grid.Row="3" Content="Port (Domyślnie 587)" HorizontalAlignment="Center" ></Label>
+        <TextBox Grid.Column="1" Grid.Row="0" Text="{Binding SmtpServer }" VerticalAlignment="Center" Margin="5,6" Height="18"></TextBox>
+        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding EmailUser}" VerticalAlignment="Center" Margin="5,6" Height="18"></TextBox>
+        <TextBox Grid.Column="1" Grid.Row="2" Text="{Binding EmailPassword}" VerticalAlignment="Center" Margin="5,6" Height="18"></TextBox>
+        <TextBox Grid.Column="1" Grid.Row="3" Text="{Binding Port}" VerticalAlignment="Center" Margin="5,6" Height="18"></TextBox>
+        <Button Content="Zatwierdź" Command="{Binding SaveSettings}" Grid.Row="4" VerticalAlignment="Bottom"  Grid.Column="1" Margin="0,0,0,6" />
+    </Grid>
+</Window>
